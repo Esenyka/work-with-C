@@ -1,0 +1,15 @@
+C:\Users\Есения\Desktop\programming\C#\exemple01\bin\Debug\net6.0\exemple01.exe
+C:\Users\Есения\Desktop\programming\C#\exemple01\bin\Debug\net6.0\exemple01.deps.json
+C:\Users\Есения\Desktop\programming\C#\exemple01\bin\Debug\net6.0\exemple01.runtimeconfig.json
+C:\Users\Есения\Desktop\programming\C#\exemple01\bin\Debug\net6.0\exemple01.dll
+C:\Users\Есения\Desktop\programming\C#\exemple01\bin\Debug\net6.0\exemple01.pdb
+C:\Users\Есения\Desktop\programming\C#\exemple01\obj\Debug\net6.0\exemple01.csproj.AssemblyReference.cache
+C:\Users\Есения\Desktop\programming\C#\exemple01\obj\Debug\net6.0\exemple01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Есения\Desktop\programming\C#\exemple01\obj\Debug\net6.0\exemple01.AssemblyInfoInputs.cache
+C:\Users\Есения\Desktop\programming\C#\exemple01\obj\Debug\net6.0\exemple01.AssemblyInfo.cs
+C:\Users\Есения\Desktop\programming\C#\exemple01\obj\Debug\net6.0\exemple01.csproj.CoreCompileInputs.cache
+C:\Users\Есения\Desktop\programming\C#\exemple01\obj\Debug\net6.0\exemple01.dll
+C:\Users\Есения\Desktop\programming\C#\exemple01\obj\Debug\net6.0\refint\exemple01.dll
+C:\Users\Есения\Desktop\programming\C#\exemple01\obj\Debug\net6.0\exemple01.pdb
+C:\Users\Есения\Desktop\programming\C#\exemple01\obj\Debug\net6.0\exemple01.genruntimeconfig.cache
+C:\Users\Есения\Desktop\programming\C#\exemple01\obj\Debug\net6.0\ref\exemple01.dll
